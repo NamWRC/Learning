@@ -1,2 +1,2 @@
-# Learning
-Tải và giải nén. Mở file Proteus và chỉnh sửa lại program path để chạy.
+﻿# Learning
+Bai tap lap trinh nhung ntu k61
